@@ -3,7 +3,7 @@
 }
 
 .bcForm {
-  width: 500px; 
+  max-width: 500px; 
 }
 .uniForm .buttonHolder {
  background-color: transparent !important; 
