@@ -21,7 +21,7 @@
 #left {
   position:absolute;
   height: 600px;
-  width:200px;
+  width:300px;
   left:0;
   top: 0;
 }
@@ -29,7 +29,7 @@
 #right {
   position:absolute;
   height: 600px;
-  width:200px;
+  width:300px;
   right:0;
   top: 0;
 }
