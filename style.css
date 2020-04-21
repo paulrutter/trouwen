@@ -4,7 +4,8 @@
 
 #body {
   text-align: center;
-  width: 800px;
+  left:0;
+  right:0;
 }
 
 #left {
