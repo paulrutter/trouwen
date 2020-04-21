@@ -7,6 +7,9 @@
 }
 .uniForm .buttonHolder {
  background-color: transparent !important; 
+ text-align: left;
+ margin: 0;
+ padding: 0;
 }
 
 #body {
